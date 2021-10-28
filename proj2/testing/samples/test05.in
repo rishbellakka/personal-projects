@@ -1,0 +1,15 @@
+I commit_setup.inc
+> branch a
+<<<
+> checkout a
+<<<
++ b.txt wug.txt
+> add b.txt
+<<<
+> commit b
+<<<
+> checkout master
+<<<
+* b.txt
+
+

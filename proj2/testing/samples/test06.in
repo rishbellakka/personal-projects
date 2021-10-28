@@ -1,0 +1,23 @@
++ a.txt a.txt
+> init
+<<<
+> branch a
+<<<
++ Hello.txt wug.txt
+> add Hello.txt
+<<<
+> commit Hello
+<<<
+> checkout a
+<<<
+* Hello.txt
+> add a.txt
+<<<
+> commit a
+<<<
+> branch b
+<<<
+> checkout b
+<<<
+* Hello.txt
+
